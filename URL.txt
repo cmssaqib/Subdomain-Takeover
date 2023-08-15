@@ -5,3 +5,4 @@ https://test.hunt.com/
 https://new.hunt.com/
 https://demo.hunt.com/
 https://working.hunt.com/
+https://hello.hunt.com/
