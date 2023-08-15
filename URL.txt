@@ -1,3 +1,4 @@
 https://hunt.com/
 https://remote.hunt.com/
 https://admin.hunt.com/
+https://test.hunt.com/
